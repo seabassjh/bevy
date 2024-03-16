@@ -1,3 +1,4 @@
+#define_import_path bevy_pbr::mesh
 #import bevy_pbr::{
     mesh_functions,
     skinning,
